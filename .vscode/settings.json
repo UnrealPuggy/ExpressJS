@@ -1,5 +1,5 @@
 {
-	"deno.enable": true,
-	"deno.disablePaths": ["app"],
-	// "deno.enablePaths": [".","app/ts/type"],
+  "deno.enable": true,
+  "deno.disablePaths": ["testing/app"]
+  // "deno.enablePaths": [".","app/ts/type"],
 }

@@ -1,5 +1,11 @@
 {
 	"imports": {
 		"esbuild": "npm:esbuild@^0.25.9"
+	},
+	"tasks": {
+		"test": {
+			"description": "I like pugs",
+			"command": "cd testing && deno run -NRE --allow-run --watch test1.ts"
+		}
 	}
 }
