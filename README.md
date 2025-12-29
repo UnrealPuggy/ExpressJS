@@ -1,2 +1,2 @@
-# Pug Express JS
-My Own Express JS for Deno. IDK what I'm doing.
+# This is not a express js fork
+This is my own version of express js and it's just called that because I am bad at names.
